@@ -8,7 +8,7 @@ Use Visual Studio 2015 (Community Edition is sufficient) to build **HeroWarzLaun
 
 <br />
 
-#### Note about saving username/password:
+#### Note about saving username/password
 Saving username and/or password is optional.
 <br />
 If you choose to save username and/or password, the launcher will NOT save them as plaintext.
