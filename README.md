@@ -26,7 +26,7 @@ Saving username and/or password is optional.
 <br />
 If you choose to save username and/or password, the launcher will NOT save them as plaintext.
 <br />
-It will encrypt them based on your HWID (Hardware ID) using AES with [RFC 2898](https://tools.ietf.org/html/rfc2898).
+It will encrypt them based on your HWID (Hardware ID) using [AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) with [RFC 2898](https://tools.ietf.org/html/rfc2898).
 <br />
 With the processor ID (your CPU's ID) as the password and the hard drive serial number as the salt.
 <br />
