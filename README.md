@@ -34,6 +34,8 @@ Meaning the only way to decrypt the encrypted text is to have access to your PC.
 <br />
 If someone snags your settings file (HeroWarzLauncher.ini) he wouldn't be able to do much with it without access to your PC or your PC's information.
 
+<br />
+
 #### Links
 [Current release page \(version 1.0.0\)](https://github.com/Jeedify/HeroWarzLauncher/releases/tag/1.0.0)
 <br />
