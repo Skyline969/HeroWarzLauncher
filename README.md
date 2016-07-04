@@ -34,3 +34,9 @@ With the processor ID (your CPU's ID) as the password and the hard drive serial 
 Meaning the only way to decrypt the encrypted text is to have access to your PC.
 <br />
 If someone snags your settings file (HeroWarzLauncher.ini) he wouldn't be able to do much with it without access to your PC or your PC's information.
+
+#### Links
+
+[Current release page \(version 1.0.0\)](https://github.com/Jeedify/HeroWarzLauncher/releases/tag/1.0.0)
+
+[Direct download for HeroWarzLauncher.exe](https://github.com/Jeedify/HeroWarzLauncher/releases/download/1.0.0/HeroWarzLauncher.exe)
