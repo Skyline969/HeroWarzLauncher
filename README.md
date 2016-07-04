@@ -1,5 +1,5 @@
 # HeroWarzLauncher
-Standalone launcher for HeroWarz
+Standalone launcher for [HeroWarz](http://herowarz.koggames.com/)
 
 <br />
 
