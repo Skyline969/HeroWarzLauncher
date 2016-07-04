@@ -8,7 +8,7 @@ Standalone launcher for HeroWarz
 <br />
 **If you don't have the game already installed, you can download and install it from the official website without installing a browser extension: http://koggames.cdn.reloadedtech.com/HeroWarz/WebApp/MCSetup_OneClick.exe*
 <br />
-2\. Download HeroWarzLauncher.exe or get the source and build the project yourself ([links down below](#links)).
+2\. Download HeroWarzLauncher.exe or get the source code and build the project yourself ([links down below](#links)).
 <br />
 3\. Copy HeroWarzLauncher.exe to the game directory (Default: `C:\KOGGAMES\HeroWarz`)
 <br />
