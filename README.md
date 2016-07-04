@@ -24,7 +24,6 @@ Use Visual Studio 2015 (Community Edition is sufficient) to build **HeroWarzLaun
 #### Note about saving username/password
 Saving username and/or password is optional.
 <br />
-
 If you choose to save username and/or password, the launcher will NOT save them as plaintext.
 <br />
 It will encrypt them based on your HWID (Hardware ID) using AES with [RFC 2898](https://tools.ietf.org/html/rfc2898).
@@ -36,7 +35,6 @@ Meaning the only way to decrypt the encrypted text is to have access to your PC.
 If someone snags your settings file (HeroWarzLauncher.ini) he wouldn't be able to do much with it without access to your PC or your PC's information.
 
 #### Links
-
 [Current release page \(version 1.0.0\)](https://github.com/Jeedify/HeroWarzLauncher/releases/tag/1.0.0)
-
+<br />
 [Direct download for HeroWarzLauncher.exe](https://github.com/Jeedify/HeroWarzLauncher/releases/download/1.0.0/HeroWarzLauncher.exe)
