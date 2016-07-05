@@ -37,6 +37,6 @@ If someone snags your settings file (HeroWarzLauncher.ini) he wouldn't be able t
 <br />
 
 #### Links
-[Current release page \(version 1.0.0\)](https://github.com/Jeedify/HeroWarzLauncher/releases/tag/1.0.0)
+[Latest release page \(version 1.0.0\)](https://github.com/Jeedify/HeroWarzLauncher/releases/tag/1.0.0)
 <br />
-[Direct download for HeroWarzLauncher.exe](https://github.com/Jeedify/HeroWarzLauncher/releases/download/1.0.0/HeroWarzLauncher.exe)
+[Direct download for HeroWarzLauncher.exe (latest release)](https://github.com/Jeedify/HeroWarzLauncher/releases/download/1.0.0/HeroWarzLauncher.exe)
