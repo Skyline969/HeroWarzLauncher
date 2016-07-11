@@ -84,6 +84,22 @@ namespace HeroWarzLauncher.Settings
             }
         }
 
+        internal bool AutoLogin
+        {
+            get
+            {
+                return IniFile.ReadKey(SettingsSectionName, "AutoLogin", "0", false) == "1";
+            }
+
+            set
+            {
+                if (!value)
+                    IniFile.DeleteKey("AutoLogin", SettingsSectionName);
+                else
+                    IniFile.WriteKey(SettingsSectionName, "AutoLogin", value ? "1" : "0", false);
+            }
+        }
+
         internal SettingsWrapper()
         {
             IniFile = new IniFile(string.Format("{0}/HeroWarzLauncher.ini", Directory.GetCurrentDirectory()));
